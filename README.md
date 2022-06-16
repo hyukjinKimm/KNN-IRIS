@@ -17,6 +17,8 @@ IRIS classification using k-nearest neighbors algorithm
 python main.py
 ```
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/107605573/174042401-be61a914-5936-40dc-80a5-6a2cec742a00.png)
 ## Authors
 
 Hyuk Jin Kim 
