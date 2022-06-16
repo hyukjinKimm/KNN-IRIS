@@ -1,8 +1,6 @@
-# KNN-IRIS
-
 # Project Title
 
-Simple k-nearest neighbors algorithm with IRIS
+Simple k-nearest neighbors algorithm with scikit-learn
 
 ## Description
 
